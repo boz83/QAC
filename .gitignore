@@ -10,3 +10,6 @@ QA Projects/Project_1/python.py
 teams.txt
 QAC_excercises/QAC_Modules/__pycache__/dice.cpython-38.pyc
 QAC_Functions_Python/beginner1.py
+.pytest_cache/
+QAC_Daily_Challenges/__pycache__/
+QAC_Daily_Challenges/.pytest_cache/
